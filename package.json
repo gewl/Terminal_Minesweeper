@@ -1,0 +1,22 @@
+{
+  "name": "console_minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minesweeper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gewl/Terminal_Minesweeper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gewl/Terminal_Minesweeper/issues"
+  },
+  "homepage": "https://github.com/gewl/Terminal_Minesweeper#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
